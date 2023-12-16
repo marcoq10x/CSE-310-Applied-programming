@@ -6,7 +6,7 @@ The software is a representation of the classic Tic-Tac-Toe game, allowing two p
 
 For a hands-on demonstration and a walkthrough of the code, explaining the intricacies of the C# language and what was learned during the process, check out the video below.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/yirmH-MCHGY)
 
 # Development Environment
 
